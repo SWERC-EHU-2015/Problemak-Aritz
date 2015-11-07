@@ -1,0 +1,4 @@
+int& a*[]&, b, c*;
+Double[][] Array[];
+int& a*[]&, b, c*, d*[]&&**[][];
+short a;
